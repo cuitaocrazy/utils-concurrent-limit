@@ -1,0 +1,23 @@
+{
+  "name": "utils-concurrent-limit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuitaocrazy/utils-concurrent-limit.git"
+  },
+  "keywords": [
+    "utils",
+    "concurrent"
+  ],
+  "author": "cuitao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuitaocrazy/utils-concurrent-limit/issues"
+  },
+  "homepage": "https://github.com/cuitaocrazy/utils-concurrent-limit#readme"
+}
